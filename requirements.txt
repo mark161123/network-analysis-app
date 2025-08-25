@@ -1,0 +1,11 @@
+flask
+pandas
+seaborn
+matplotlib
+scikit-learn
+joblib
+flask-pymongo
+werkzeug
+itsdangerous
+certifi
+dnspython
